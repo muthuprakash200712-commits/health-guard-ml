@@ -1,0 +1,7 @@
+{
+  "name": "HealthGuard ML",
+  "description": "Explainable Multi-Disease Risk Prediction and Patient Health Intelligence System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
